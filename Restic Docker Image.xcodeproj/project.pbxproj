@@ -6,10 +6,17 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXFileReference section */
+		8595C9CF2029BB2B00E5E3C3 /* Dockerfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Dockerfile; sourceTree = "<group>"; };
+		8595C9D02029BEA700E5E3C3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		8595C9C82029BB1600E5E3C3 = {
 			isa = PBXGroup;
 			children = (
+				8595C9D02029BEA700E5E3C3 /* README.md */,
+				8595C9CF2029BB2B00E5E3C3 /* Dockerfile */,
 			);
 			sourceTree = "<group>";
 		};
